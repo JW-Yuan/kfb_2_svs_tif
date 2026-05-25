@@ -1,0 +1,8 @@
+# --- Python ---
+__pycache__/
+
+*.groovy
+*.spec
+scripts/*
+build/*
+dist/*
